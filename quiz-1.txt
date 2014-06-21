@@ -1,0 +1,31 @@
+
+MC:
+This is the question text.
+
+It can be multiple lines. Tabs will be converted to spaces.	Such as this previous tab.
+
+Here <b>is</b> some <i>HTML</i>.
+
+- Wrong answer 1
+- Wrong answer 2
+* Correct answer with <i>funny</i>	formatting.
+
+
+MA:
+2: This is the question text.
+
+2: It can be multiple lines. Tabs will be converted to spaces.	Such as this previous tab.
+
+2: Here <b>is</b> some <i>HTML</i>.
+
+- 2: Wrong answer 1
+- 2: Wrong answer 2
+* 2: Correct answer with <i>funny</i>	formatting.
+* 2: Correct answer 2
+
+FIB:
+Here is a fill-in-the-blank question.
+
+The answer must start with an asterisk, and contain a single line of text.
+
+* Here is the answer.
